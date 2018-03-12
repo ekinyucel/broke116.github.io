@@ -54,6 +54,17 @@ main > .tagline {
 	margin: 1.5rem 0;
 	font-weight: 100;
 }
+/* temporary */
+
+.icons-social a {
+	color: #0277BD;
+}
+
+.icons-social a svg path{
+	fill: #0277BD;
+}
+
+/* */
 
 .icons-social i {
 	padding: 10px;
